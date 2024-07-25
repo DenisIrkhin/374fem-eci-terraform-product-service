@@ -1,2 +1,2 @@
-# 374fem-eci-terraform-product-service
-Terraform repo for managing AWS Elastic Container Service
+# fem-eci-terraform-product-service
+Example organization product service automation from Enterprise Cloud Infrastructure on Frontend Masters.
